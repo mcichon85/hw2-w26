@@ -82,7 +82,6 @@ div {
 
 footer {
     background-image: linear-gradient(to right, #000000 0%, #0000ff 25%, #0066ff 70%, #000000 100%);
-    /* a gradient background that starts at #000000, goes to #0000ff at 25,  #0066ff at 70, and ends back at #000000. */
     border: #ffffff, solid, 5px;
 }
 
